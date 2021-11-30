@@ -9,7 +9,7 @@ public class t4_literals {
         float f1 = 5.6f;
         double d1 = 4.66D;
         boolean a = true;
-        String str = "Harry";
+        String str = "Swaraj";
 
         System.out.println(age);
         System.out.println(str);
